@@ -1,0 +1,7 @@
+# Integrated Cyber Defense Environment (ICDE)
+### Absract
+This project establishes a comprehensive, virtualized cybersecurity laboratory designed to simulate and practice modern Security Operations Center (SOC) workflows and enhance defensive capabilities. Hosted within a VMware environment, the lab integrates a suite of essential security tools, including Wazuh (SIEM/HIDS), TheHive/Cortex (SOAR), Suricata (NIDS), OpenVAS (Vulnerability Scanner), Cowrie (Honeypot), and Splunk (Log Aggregation/Analysis), alongside a realistic Active Directory infrastructure and target endpoints.
+
+The core capabilities of this environment include: centralized collection and analysis of logs from diverse sources; real-time network intrusion detection; host-based monitoring for threats and file integrity; proactive vulnerability assessment; deployment of deception technology; and streamlined incident response through SOAR integration. TheHive provides robust case management, while Cortex enables automated observable enrichment using integrated analyzers.
+
+The lab facilitates practical experience in correlating security events, investigating alerts, managing vulnerabilities, and orchestrating response actions. Attack simulations, executed via Kali Linux, serve to validate the effectiveness of the deployed security stack and refine detection and response procedures. This integrated setup provides a powerful platform for developing and demonstrating hands-on skills in threat detection, incident response, and overall cyber resilience.
