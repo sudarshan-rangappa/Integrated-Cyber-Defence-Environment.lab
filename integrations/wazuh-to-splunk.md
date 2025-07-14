@@ -1,0 +1,2 @@
+# Wazuh To Splunk
+
