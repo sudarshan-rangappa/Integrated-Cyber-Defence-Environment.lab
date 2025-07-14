@@ -13,9 +13,3 @@ The diagram below illustrates the full data flow and logical structure of the In
 > - 🧠 **Security Analyst User** uses dashboards, workflows, and bot alerts to monitor and respond.
 > - 🌐 Network uses VMware NAT with default gateway `192.168.33.2`.
 
----
-
-## 📁 Diagram File Location
-
-The image should be stored in your repo under:
-
