@@ -1,2 +1,0 @@
-# Shuffle Webhook Automation
-

@@ -1,2 +1,0 @@
-# Ssh Bruteforce To Cowrie
-

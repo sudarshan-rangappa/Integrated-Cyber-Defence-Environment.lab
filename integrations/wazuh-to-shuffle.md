@@ -1,2 +1,0 @@
-# Wazuh To Shuffle
-
