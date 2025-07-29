@@ -1,4 +1,5 @@
 # 🛡️ Integrated Cyber Defense Environment (ICDE)
+<img width="3840" height="3649" alt="icde-network-topology" src="https://github.com/user-attachments/assets/02f0d6b9-35a9-4759-90eb-bec93b823a36" />
 
 A virtual SOC simulation built using open-source tools for blue/red team operations.
 
